@@ -5,15 +5,15 @@ This Kotlin-based ToDo App leverages the power of Room storage to offer a seamle
 
 # Key Features:
 
-Efficient Task Management: Create, edit, and delete tasks effortlessly.
-Room Database Integration: Utilizes Room persistence library for reliable storage of tasks.
-Flexible Task Organization: Categorize tasks with customizable labels and tags.
-Reminder Functionality: Set due dates and reminders to stay on top of deadlines.
-Priority Management: Prioritize tasks using different color functionality.
-Easy Task Tracking: Mark tasks as complete to monitor your progress.
-Search and Filter: Quickly find tasks with search and filter capabilities.
-Dark Mode Support: Enjoy comfortable usage with built-in dark mode support.
-Sync Across Devices: Seamlessly sync tasks across multiple devices for enhanced accessibility.
+1. Efficient Task Management: Create, edit, and delete tasks effortlessly.
+2. Room Database Integration: Utilizes Room persistence library for reliable storage of tasks.
+3. Flexible Task Organization: Categorize tasks with customizable labels and tags.
+4. Reminder Functionality: Set due dates and reminders to stay on top of deadlines.
+5. Priority Management: Prioritize tasks using different color functionality.
+6. Easy Task Tracking: Mark tasks as complete to monitor your progress.
+7. Search and Filter: Quickly find tasks with search and filter capabilities.
+8. Dark Mode Support: Enjoy comfortable usage with built-in dark mode support.
+9. Sync Across Devices: Seamlessly sync tasks across multiple devices for enhanced accessibility.
 
 # License:
 The Kotlin ToDo App is licensed under the permissive MIT License, allowing for flexibility in usage and distribution.
